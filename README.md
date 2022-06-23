@@ -10,7 +10,7 @@
 
 ## Dataset downloading
 ### https://github.com/anchen1011/toflow (Vimeo-90K)
-### https://github.com/anchen507/Data_pool.git
+### https://github.com/anchen507/Data_pool
 
 
 ## References:
