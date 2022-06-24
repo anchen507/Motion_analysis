@@ -2,9 +2,6 @@
 
 #### This project is implemented using Pytorch and tested on V1.7.0
 
-## Demo downloading:
-### 
-
 ## training:
 ### python train.py
 
